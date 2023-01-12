@@ -1,4 +1,4 @@
-Mediator Pattern Example in C#
+# Mediator Pattern Example in C#
 
 This repository contains an example implementation of the Mediator pattern in C#. The Mediator pattern is a behavioral design pattern that provides a unified interface for communication between multiple objects. This pattern helps to reduce the complexity of communication between objects by introducing a mediator object that acts as a go-between for all other objects in the system.
 
